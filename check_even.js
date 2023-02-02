@@ -8,4 +8,3 @@ function checkEven(number){
         console.log("The number is odd");
     }
 }
-checkEven(302);
